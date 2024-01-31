@@ -1,0 +1,37 @@
+.AddTodoInput {
+  padding: 0 24px;
+  display: flex;
+  gap: 10px;
+}
+
+.AddTodoInput__input {
+  font-family: "VT323", monospace;
+  color: #0ebb45fe;
+  font-size: 1.5em;
+  height: 40px;
+  width: 100%;
+  padding-left: 12px;
+  border-radius: 6px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  border: none;
+}
+
+.AddTodoInput__btn {
+  color: white;
+  border-radius: 12px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #0ebb45fe;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  transition: 0.8s;
+}
+.AddTodoInput__btn:hover {
+  transform: scale(1.2);
+  background-color: whitesmoke;
+  box-shadow: 4px 4px 4px #0ebb45fe;
+  color: #0ebb45fe;
+}

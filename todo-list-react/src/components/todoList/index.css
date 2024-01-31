@@ -1,0 +1,9 @@
+.TodoList {
+  padding: 20px 0;
+  max-height: 85vh;
+
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 20px;
+  overflow-y: auto;
+}

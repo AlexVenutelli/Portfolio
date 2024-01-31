@@ -1,0 +1,67 @@
+.TodoItem {
+  display: flex;
+  flex-direction: column;
+  padding: 0 20px;
+}
+
+.TodoItem__item {
+  background-color: azure;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 12px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+  border-radius: 12px;
+}
+
+.TodoItem__item input {
+  border: none;
+
+  cursor: text;
+}
+
+.TodoItem__item button {
+  margin-right: 3px;
+  background: none;
+  border: none;
+  color: #49a815;
+  font-weight: bold;
+  transition: transform 0.35s;
+}
+
+.TodoItem__item button:hover {
+  transform: scale(1.5);
+  cursor: pointer;
+}
+
+.TodoItem__item p {
+  color: #49a815;
+  font-size: 22px;
+}
+
+.DeleteButton_toDo {
+  font-size: 18px;
+  border: 0;
+  background-color: transparent;
+
+  transition: transform 0.35s;
+}
+
+.DeleteButton_toDo:hover {
+  transform: scale(1.5);
+  cursor: pointer;
+}
+
+.EditButton_toDo {
+  background: none;
+  border: none;
+  color: #49a815;
+  font-weight: bold;
+  transition: transform 0.35s;
+}
+
+.EditButton_toDo:hover {
+  transform: scale(1.5);
+  cursor: pointer;
+}
