@@ -8,4 +8,4 @@ Benvenuto nel mio portfolio! Qui troverai i link ai deployment su Vercel dei tre
 ## Progetto 2: ["Sample Project - Home Page"](https://portfolio-hazel-iota-51.vercel.app/)
 
 
-## Progetto 3: [Todo-List](https://portfolio-hazel-iota-51.vercel.app/)
+## Progetto 3: [Todo-List](https://cb-8-lake.vercel.app/)
