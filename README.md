@@ -1,6 +1,6 @@
 # Portfolio
 
-Benvenuto nel mio portfolio! Qui troverai i link ai deployment su Vercel dei tre progetti presenti in questa repository.
+Benvenuto nel mio portfolio! Qui troverai i link ai deployment su Vercel dei  progetti presenti in questa repository.
 
 ## Progetto 1: [Address-Book](https://adress-book-three.vercel.app/ )
 
