@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+
+  font-family: Poppins, sans-serif;
+
+  background-image: linear-gradient(#ffffff4d, #ffffff80), url("/image/bg.jpg");
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
